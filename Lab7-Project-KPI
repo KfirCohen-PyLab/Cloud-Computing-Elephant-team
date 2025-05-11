@@ -1,0 +1,7 @@
+Based on our NFR:
+
+KPI of interest for our project:
+
+Availability & Reliability, User Experience, Performance, Security & Complience.
+
+We'd check them by measuriing how long the dashboard is available, ask users about their experience and ensure performance by measuring response time and update time.
